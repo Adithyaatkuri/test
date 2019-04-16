@@ -1,0 +1,9 @@
+
+git config --global http.proxy http://djibuser:app%40user@192.168.26.37:99
+
+git config --global http.sslverify false
+
+
+-------------------------------------------------
+git config --global https.proxy https://djibuser:app%40user@192.168.26.37:99
+
